@@ -5,6 +5,11 @@ changes
 hum nahi toh kaun be!
 
 Aaryan made a chanfgeefaqrgv;qahj . LETS SEE WHATS ADDED
+<<<<<<< Updated upstream
 =======
 Lets go
+>>>>>>> Stashed changes
+=======
+
+America can be defined in a single word adwagvnmehRIPGH
 >>>>>>> Stashed changes
